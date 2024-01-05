@@ -1,1 +1,3 @@
-Turkcell Geleceği Yazanlar Python Kodları
+## Python Course Code
+#### Using technologies in this project :
+* Python
